@@ -1,4 +1,5 @@
-class Demo2
+package demo0323;
+class Demo02
 {
 	public static void main(String[] args)
 	{
@@ -9,7 +10,7 @@ class Demo2
 			System.out.println("y="+y+",x="+x);
 	}
 }
-class Demo3
+class Demo03
 {
 	public static void main(String[] args)
 	{
@@ -28,7 +29,7 @@ class Demo3
 		System.out.println("a="+a+"\tb="+b+"\tf="+f); 
 	}
 }
-class Demo4
+class Demo04
 {
 	public static void main(String[] args)
 	{ 
@@ -42,7 +43,7 @@ class Demo4
 		
 	}
 }
-class Demo5
+class Demo05
 { 
 	public static void main(String []args)
 	{ 

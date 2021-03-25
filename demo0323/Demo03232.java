@@ -1,7 +1,8 @@
+package demo0323;
 import java.util.Random;
 import java.util.Scanner;
 
-class  Demo1//数组
+class  Demo01//数组
 {
 	public static void tiqu(int[] nums)
 	{
@@ -35,7 +36,7 @@ class  Demo1//数组
 		
 	}
 }
-class Demo2
+class Demo21
 {
 
 	public static void main(String[] args)
@@ -52,7 +53,7 @@ class Demo2
 		a[0] = 77;
 	}
 }
-class Demo3//交换两个数2021/3/23
+class Demo31//交换两个数2021/3/23
 {
 	public static void swap(int[] arr)
 	{
@@ -72,7 +73,7 @@ class Demo3//交换两个数2021/3/23
 		System.out.println("first  "+arr[0]+"   second  "+arr[1]);
 	}
 }
-class  Demo4
+class  Demo41
 {
 	public static void show(int[] nums)//打印一个数组
 	{

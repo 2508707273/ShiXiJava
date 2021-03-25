@@ -1,3 +1,4 @@
+package demo0323;
 import java.util.Scanner;
 
 class Demo1 //·½·¨
@@ -64,7 +65,7 @@ class Demo4//º¯ÊıÖØÔØ,ÔÚÍ¬Ò»¸öclassÀïµÄ£¬ÖØÔØÖ»¿´²ÎÊı£¬²»¿´·µ»ØÖµ£¬·µ»ØÖµÀàĞÍ²»Í
 {
 	public static int add()
 	{
-		return 3£»
+		return 3;
 		
 	}
 

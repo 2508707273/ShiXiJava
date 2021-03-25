@@ -1,3 +1,4 @@
+package demo0322;
 import java.util.Scanner;
 class Demo1//Ñ­»·µÄ²½Öè
 {

@@ -1,3 +1,4 @@
+package demo0322;
 import java.util.Scanner;
 class Test1 
 /*
